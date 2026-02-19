@@ -71,3 +71,18 @@ FIDE Rated Chess Player ♟  Rapid:1571, Blitz:1548
 
 </p>
 
+## 📜 Certifications
+
+- 🏆 **Young Turks’25 (98.66 Percentile)**  
+  🔗 [View Certificate]([link](https://tinyurl.com/2wsrmjyn))
+
+- 🚀 **ISRO Bhartiya Antariksh Hackathon**  
+  🔗 [View Certificate]([link](https://certificate.hack2skill.com/user/isrobah25/2025H2S06BAH25-P26441))
+
+- 👑 ** ICPC Coding Contest’24**  
+  🔗 [View Certificate]([link](https://drive.google.com/file/d/15idmNSOASAnHCtuv8D5iu90eIH35zaos/view?usp=drive_link))
+
+- 👑 **ICPC Algo Queen Contest’25**
+  🔗 [View Certificate]([link]([https://drive.google.com/file/d/15idmNSOASAnHCtuv8D5iu90eIH35zaos/view?usp=drive_link)](https://media.licdn.com/dms/image/v2/D4D2DAQG64EfXn8A66Q/profile-treasury-image-shrink_480_480/B4DZhm2C3DHsAM-/0/1754072102276?e=1761386400&v=beta&t=aH45LvvT1mjrgZNol9mW0gRkxo-jbG2XDLl5Q_oEis8))
+
+
