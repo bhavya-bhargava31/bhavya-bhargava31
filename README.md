@@ -1,45 +1,60 @@
-# Hi  I'm Bhavya Bhargava
+<h1 align="center">Hi 👋, I'm Bhavya Bhargava</h1>
+<h3 align="center">Data Science & ML Enthusiast | Competitive Programmer | IT Undergraduate</h3>
 
-🎓 B.Tech (Information Technology) | HBTU Kanpur|📍 India  
-📧 bhavya.bhargava2025@gmail.com  
+<p align="center">
+🎓 B.Tech (Information Technology), HBTU Kanpur <br>
+📍 India <br>
+📧 bhavya.bhargava2025@gmail.com
+</p>
 
-I am a passionate IT student with strong interest in  Data Analytics, Competitive Programming, AI-based solutions.With a foundation in Frontend Development, I am currently exploring Data Science and Machine Learning to create impactful, AI-powered applications.
-I enjoy solving real-world problems using technology and actively participate in hackathons and coding contests.
+---
 
-💻 Technical Skills
+## 🚀 About Me
 
-🖥 Programming Languages
-- Python
-- C
-- C++
-- SQL
+I am a passionate IT student with strong interest in **Data Analytics, Competitive Programming, and AI-driven solutions**.
 
-🌐 Technologies & Tools
-- Pandas
-- Matplotlib
-- HTML
-- CSS
-- JavaScript
-- AI Tools
-- Data Analytics
-- NumPy
-- Seaborn
-- Scikit-learn
-- Machine Learning basics
-- Data Cleaning
-- Streamlit
-  
-📚 Core Subjects
-- DBMS
-- Operating Systems
-- Computer Networks
-- Design & Analysis of Algorithms
+With a foundation in **Frontend Development**, I am currently transitioning into **Data Science and Machine Learning** to build impactful, data-driven applications.
 
+---
 
-♟ Interests
-- FIDE Rated Chess Player
-  
-🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/bhavya-bhargava-94346b1ab
+## 💻 Tech Stack
 
+### 🖥 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql" />
+</p>
 
+### 📊 Data Science & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
+</p>
+
+### 🌐 Web & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📚 Core CS
+DBMS • Operating Systems • Computer Networks • DAA
+
+---
+
+## ♟ Interests
+FIDE Rated Chess Player ♟  
+
+---
+
+## 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/bhavya-bhargava-94346b1ab">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
