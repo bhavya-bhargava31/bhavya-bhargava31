@@ -1,9 +1,9 @@
-# Hi 👋 I'm Bhavya Bhargava
+# Hi  I'm Bhavya Bhargava
 
 🎓 B.Tech (Information Technology) | HBTU Kanpur|📍 India  
 📧 bhavya.bhargava2025@gmail.com  
-🚀 About Me
-I am a passionate IT student with strong interest in  Data Analytics, Competitive Programming, AI-based solutions and frontend development.
+
+I am a passionate IT student with strong interest in  Data Analytics, Competitive Programming, AI-based solutions.With a foundation in Frontend Development, I am currently exploring Data Science and Machine Learning to create impactful, AI-powered applications.
 I enjoy solving real-world problems using technology and actively participate in hackathons and coding contests.
 
 💻 Technical Skills
@@ -22,7 +22,13 @@ I enjoy solving real-world problems using technology and actively participate in
 - JavaScript
 - AI Tools
 - Data Analytics
-
+- NumPy
+- Seaborn
+- Scikit-learn
+- Machine Learning basics
+- Data Cleaning
+- Streamlit
+  
 📚 Core Subjects
 - DBMS
 - Operating Systems
@@ -32,6 +38,7 @@ I enjoy solving real-world problems using technology and actively participate in
 
 ♟ Interests
 - FIDE Rated Chess Player
+  
 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/bhavya-bhargava-94346b1ab
 
