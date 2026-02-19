@@ -26,9 +26,11 @@ With a foundation in **Frontend Development**, I am currently transitioning into
 
 ### 📊 Data Science & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
 </p>
+
 
 ### 🌐 Web & Tools
 <p>
@@ -48,13 +50,26 @@ DBMS • Operating Systems • Computer Networks • DAA
 ---
 
 ## ♟ Interests
-FIDE Rated Chess Player ♟  
+FIDE Rated Chess Player ♟  Rapid:1571, Blitz:1548
 
 ---
 
+
 ## 🔗 Connect With Me
-<p>
+
+<p align="left">
+  
   <a href="https://www.linkedin.com/in/bhavya-bhargava-94346b1ab">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <a href="mailto:bhavya.bhargava2025@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://leetcode.com/bhavya3107/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="48"/>
+  </a>
+
 </p>
+
