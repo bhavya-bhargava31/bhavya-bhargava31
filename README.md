@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Bhavya Bhargava
 
-<!--
-**bhavya-bhargava31/bhavya-bhargava31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (Information Technology) | HBTU Kanpur|📍 India  
+📧 bhavya.bhargava2025@gmail.com  
+🚀 About Me
+I am a passionate IT student with strong interest in  Data Analytics, Competitive Programming, AI-based solutions and frontend development.
+I enjoy solving real-world problems using technology and actively participate in hackathons and coding contests.
 
-Here are some ideas to get you started:
+💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 Programming Languages
+- Python
+- C
+- C++
+- SQL
+
+🌐 Technologies & Tools
+- Pandas
+- Matplotlib
+- HTML
+- CSS
+- JavaScript
+- AI Tools
+- Data Analytics
+
+📚 Core Subjects
+- DBMS
+- Operating Systems
+- Computer Networks
+- Design & Analysis of Algorithms
+
+
+♟ Interests
+- FIDE Rated Chess Player
+🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/bhavya-bhargava-94346b1ab
+
+
