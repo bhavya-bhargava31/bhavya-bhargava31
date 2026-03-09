@@ -21,12 +21,13 @@ With a foundation in **Frontend Development**, I am currently transitioning into
 
 ### 🖥 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql" />
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </p>
 
 ### 📊 Data Science & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,streamlit,tensorflow,numpy,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,numpy,pandas,matplotlib,streamlit" />
 </p>
 
 
@@ -39,6 +40,18 @@ With a foundation in **Frontend Development**, I am currently transitioning into
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+## 🚀 Tech Stack
+
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
