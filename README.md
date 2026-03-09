@@ -26,7 +26,7 @@ With a foundation in **Frontend Development**, I am currently transitioning into
 
 ### 📊 Data Science & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,streamlit,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,streamlit,tensorflow,numpy,pandas,matplotlib" />
 </p>
 
 
