@@ -16,25 +16,6 @@ I am a passionate IT student with strong interest in **Data Analytics, Competiti
 With a foundation in **Frontend Development**, I am currently transitioning into **Data Science and Machine Learning** to build impactful, data-driven applications.
 
 ---
-
-## 💻 Tech Stack
-
-### 📊 Data Science & ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,numpy,pandas,matplotlib,streamlit" />
-</p>
-
-
-### 🌐 Web & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
 ## 💻 Tech Stack
 
 ### 🖥 Programming Languages
@@ -48,12 +29,17 @@ With a foundation in **Frontend Development**, I am currently transitioning into
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ---
 
 ### 🌐 Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
