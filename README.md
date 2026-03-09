@@ -11,9 +11,14 @@
 
 ## 🚀 About Me
 
-I am a passionate IT student with strong interest in **Data Analytics, Competitive Programming, and AI-driven solutions**.
+I am a passionate **Computer Science student** with strong interests in **Data Science, Machine Learning, Competitive Programming, and AI-driven problem solving**.
 
-With a foundation in **Frontend Development**, I am currently transitioning into **Data Science and Machine Learning** to build impactful, data-driven applications.
+With a foundation in **Frontend Web Development**, I am currently expanding my expertise in **Data Analytics, Machine Learning, and building data-driven applications** using modern tools and frameworks.
+
+I am motivated by challenging problems and strive to leverage data, algorithms, and technology to create meaningful real-world impact.
+
+♟️ Beyond coding, I am a **FIDE-rated chess player**, a pursuit that has sharpened my strategic thinking, foresight, and analytical problem-solving abilities.
+
 
 ---
 ## 💻 Tech Stack
