@@ -21,12 +21,12 @@ With a foundation in **Frontend Development**, I am currently transitioning into
 
 ### 🖥 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql" />
 </p>
 
 ### 📊 Data Science & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,streamlit,tensorflow" />
 </p>
 
 
